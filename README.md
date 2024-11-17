@@ -1,16 +1,16 @@
-## Hi there 👋
+ <h1 align="center">Hi there, I'm Manal!</h1>
 
-<!--
-**Manalelaidouni/Manalelaidouni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <p align="center">
+    <a href="https://manalelaidouni.github.io/">Blog</a> • 
+    <a href="https://x.com/Manal_ELAI">X</a> • 
+    <a href="https://www.linkedin.com/in/manalelaidouni/">LinkedIn</a> •
+    <a href="https://huggingface.co/Manel">Hugging Face</a> 
+    
+  </p>
+</div>
+<br/>
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=1A5B77FC&width=435&lines=ML+practitioner+;Always+learning%2C+;Always+creating.)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
